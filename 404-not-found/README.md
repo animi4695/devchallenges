@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/animi4695/devchallenges/master/screenshots/404.png})
+![screenshot](https://raw.githubusercontent.com/animi4695/devchallenges/master/screenshots/404.png)
 
 This challenge is to test basic HTML and CSS skills from devchallenges.io. At first it felt easier than to code it. Later I studied an article on how to convert designs to webpages and felt little comfortable.
 
